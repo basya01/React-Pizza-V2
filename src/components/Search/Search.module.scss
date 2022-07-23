@@ -1,0 +1,31 @@
+.root {
+  position: relative;
+}
+.input {
+  width: 300px;
+  padding: 12px 32px 12px 38px;
+  border: 1px solid black;
+  border-radius: 15px;
+  font-size: 15px;
+  opacity: 0.6;
+}
+.searchIcon {
+  width: 24px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 10px;
+}
+.xmark {
+  width: 20px;
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0.5;
+
+  &:hover {
+    opacity: 0.8;
+    cursor: pointer;
+  }
+}
