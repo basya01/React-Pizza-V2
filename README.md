@@ -1,3 +1,6 @@
+# React-Pizza-V2
+This project is result completing React-Pizza-V2 course using React, Redux-toolkit, TypeScript technologies.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
